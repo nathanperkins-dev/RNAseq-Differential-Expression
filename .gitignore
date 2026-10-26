@@ -4,3 +4,14 @@
 .RData
 .Ruserdata
 .Rproj.user
+
+# Local raw data
+Data/Raw/
+
+# R session checkpoints
+Results/*.RData
+Results/*.rds
+
+# Local backups and scratch files
+Scripts/*_backup.R
+test.R
